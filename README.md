@@ -18,7 +18,7 @@ Le cours : https://openclassrooms.com/fr/courses/4451251-gerez-des-flux-de-donne
 
 ## Évaluation
 
-L'évaluation sera sur le contenu des deux liens précédents. Il n'y aura pas de questions sur la partie 3 du cours d'OpenClassroom. Il n'y aura pas de questions sur les détails techniques de Kafka, mais plutôt sur les concepts et les idées générales. Les questions seront plutôt ouvertes et vous demanderont de réfléchir à des cas d'utilisation de Kafka.
+L'évaluation sera sur le contenu des deux liens précédents. Il n'y aura pas de questions sur la partie 3 du cours d'OpenClassroom. Il y aura des questions techniques sur Kafka mais plutôt sur les concepts et les idées générales. Les questions seront plutôt ouvertes et vous demanderont de réfléchir à des cas d'utilisation de Kafka.
 
 ## Pour aller plus loin
 
